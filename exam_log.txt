@@ -1,0 +1,5 @@
+    1  mkdir linux_practice
+    2  head -n 1 note.txt
+    3  head -n 1 notes.txt
+    4  git checkout -b finalexam
+    5  history > exam_log.txt
